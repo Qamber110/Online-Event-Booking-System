@@ -27,7 +27,7 @@ session_start();
 
   padding-right: 40px; /* 3 */
   padding-left:  40px; /* 3 */
-background-color: #ffff4c;}
+background-color: orange;}
 .form-style-9{
   max-width: 800px;
 
